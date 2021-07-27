@@ -57,6 +57,8 @@
 #include <ply/byte_order.hpp>
 #include <ply/io_operators.hpp>
 
+#define ADT_WORKAROUND 1
+
 namespace ply {
 
 class ply_parser

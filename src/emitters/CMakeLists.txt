@@ -9,6 +9,7 @@ endmacro()
 
 add_emitter(area        area.cpp)
 add_emitter(collimated  collimated.cpp)
+add_emitter(collimatedbeam  collimatedbeam.cpp)
 add_emitter(directional directional.cpp)
 add_emitter(point       point.cpp)
 add_emitter(constant    constant.cpp)
